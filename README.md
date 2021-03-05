@@ -111,3 +111,8 @@ curl https://proxy.freecdn.workers.dev/?url=https://raw.githubusercontent.com/ba
 其中 fping 是基于 GitHub 开源项目 https://github.com/schweikert/fping  4.2发行版修改而来，所有脚本均为本人原创内容，转载请注明出处！
 
 对于 Cloudflare Anycast 节点汇总，均为本人扫描 Cloudflare 公开节点汇总而来，Cloudflare IP Ranges 来自 https://www.cloudflare.com/zh-cn/ips/
+
+## 用于备份
+
+项目地址：https://github.com/badafans/better-cloudflare-ip
+
