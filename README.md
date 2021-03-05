@@ -112,7 +112,7 @@ curl https://proxy.freecdn.workers.dev/?url=https://raw.githubusercontent.com/ba
 
 对于 Cloudflare Anycast 节点汇总，均为本人扫描 Cloudflare 公开节点汇总而来，Cloudflare IP Ranges 来自 https://www.cloudflare.com/zh-cn/ips/
 
-## 用于备份
+## 适用于个人学习，感谢开发大佬
 
 项目地址：https://github.com/badafans/better-cloudflare-ip
 
