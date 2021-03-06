@@ -44,7 +44,7 @@ linux shell脚本，自动化筛选
 
 具体使用流程，需要编译里面 fping 4.2 修改版本，另外需要系统安装curl支持。
 
-下载修改过的源码 fping-4.2.tar.gz  点击下载[Linux源码](https://proxy.freecdn.workers.dev/?url=https://github.com/badafans/better-cloudflare-ip/releases/latest/download/linux.tar.gz)
+下载修改过的源码 fping-4.2.tar.gz  点击下载[Linux源码](https://proxy.freecdn.workers.dev/?url=https://github.com/laowagong/cf-yxip/releases/latest/download/linux.tar.gz)
 
 具体编译使用流程如下
  
@@ -76,7 +76,7 @@ sudo ./cf.sh
 
 windows批处理全自动无门槛操作，自动化筛选
 
-fping-4.2 for win32 修改版（基于 msys2.0 修改编译）点击下载[Windows版本](https://proxy.freecdn.workers.dev/?url=https://github.com/badafans/better-cloudflare-ip/releases/latest/download/windows.zip)
+fping-4.2 for win32 修改版（基于 msys2.0 修改编译）点击下载[Windows版本](https://proxy.freecdn.workers.dev/?url=https://github.com/laowagong/cf-yxip/releases/latest/download/windows.zip)
 
 1.解压后运行 CF优选IP.bat 批处理文件（可能需要管理员权限运行，对于 Windows 7 用户或者 cmd 命令行里面不支持curl命令的，需要先解压curl.exe到当前目录）
 
